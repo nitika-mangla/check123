@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>        
+
+<keywords>        
+<keyword>
+<name>2nd_renamed</name>
+<seealso>aaaa{Footwears1_renamed}check</seealso></keyword>
+<keyword>
+<name>3rd</name>
+<seealso>All Categories{Casual123nnnn}</seealso></keyword>
+<keyword>
+<name>A black</name>
+<seealso>2nd_renamed</seealso></keyword>
+<keyword>
+<name>aaaa{Footwears1_renamed}check</name>
+<conditions>Others:informal</conditions></keyword>
+<keyword>
+<name>aaaa{Footwears1_renamed}ertet</name>
+<keywords>
+<keyword>
+<name>123 aaas</name>
+<conditions>Others:Kids</conditions></keyword>
+<keyword>
+<name>index 123</name>
+<seealso>All Categories{Casual123}</seealso></keyword></keywords></keyword>
+<keyword>
+<name>aaaa{Footwears1}ertet</name>
+<keywords>
+<keyword>
+<name>123 aaas</name>
+<conditions>Others:Kids</conditions></keyword>
+<keyword>
+<name>index 123</name>
+<seealso>All Categories{Casual123}</seealso></keyword></keywords></keyword>
+<keyword>
+<name>Accessorize</name>
+<conditions>Others:Hidden_items</conditions></keyword></keywords>

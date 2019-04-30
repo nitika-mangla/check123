@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <book navtitle="Women Categories">
+    <book navtitle="Apparel">
+      <book navtitle="Dresses @$&amp;">
+        <page href="../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm"></page>
+        <book navtitle="Party" condition="Others:apparel">
+          <page condition="Others:apparel" href="../contents/Women_Categories/Apparel/Dresses/Party/Party_Dresses_for_Women.htm"></page>
+          <page condition="Others:apparel" href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm"></page>
+          <page navtitle="Informal dresses bookmark" condition="Others:apparel" href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm#Party_Dress"></page>
+          <page navtitle="Men Footwears @#$%12348((0 " href="../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm"></page>
+        </book>
+      </book>
+    </book>
+    <book navtitle="Footwears" condition="Others:footwear;Others:Women">
+      <page navtitle="Informal footwears" condition="Others:footwear;Others:Women" href="../contents/Women_Categories/Footwears/Informal_footwears.htm"></page>
+    </book>
+  </book>
+  <page href="../contents/All_Categories.htm"></page>
+  <book navtitle="Men categories">
+    <book navtitle="Apparel" condition="Others:Men">
+      <book navtitle="Jeans">
+        <page navtitle="Outdoor Dresses  Jeans" condition="Others:Men" href="../contents/Men_categories/Apparel/Jeans/Outdoor_Dresses_Jeans.htm"></page>
+        <page href="../contents/RoboHelp_Features/Images.htm"></page>
+        <map navtitle="Women_fashion" condition="Others:Men" href="Women_fashion.toc"></map>
+        <page href="../contents/RoboHelp_Features/New_Folder/lists.htm"></page>
+      </book>
+    </book>
+  </book>
+  <book navtitle="Kinder Kategorien" condition="Others:Men">
+    <book navtitle="Vêtements">
+      <book navtitle="ドレス">
+        <page condition="Others:Kids" href="../contents/Kids/Kids_Dresses.htm"></page>
+      </book>
+      <book navtitle="fête">
+        <page condition="Others:Kids" href="../contents/Kids/robe_de_fête.htm"></page>
+        <page href="../contents/Kids/文書.htm"></page>
+      </book>
+    </book>
+  </book>
+  <page href="../contents/assets/docs/Early Western travelers.pdf"></page>
+  <page href="../contents/assets/images/baby_up.gif"></page>
+  <page href="../contents/assets/images/search_2019.png"></page>
+  <page href="../contents/assets/images/Red_Circle_E.png"></page>
+  <page href="../contents/assets/images/Red_Circle_B.png"></page>
+</map>

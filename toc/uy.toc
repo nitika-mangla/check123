@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <page href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm"></page>
+  <page href="../contents/RoboHelp_Features/New_Folder/DHTML_effects.htm"></page>
+  <page href="../contents/RoboHelp_Features/New_Folder/dhtml.htm"></page>
+  <page href="../contents/Women_Categories/Apparel/Dresses/Party/formal_dresses.htm"></page>
+  <book navtitle="Kids">
+    <page href="../contents/Kids/Kids_Dresses.htm"></page>
+    <page href="../contents/Kids/robe_de_fête.htm"></page>
+    <page href="../contents/Kids/文書.htm"></page>
+  </book>
+  <book navtitle="Men_categories">
+    <book navtitle="Apparel">
+      <book navtitle="Jeans">
+        <page href="../contents/Men_categories/Apparel/Jeans/Outdoor_Dresses_Jeans.htm"></page>
+      </book>
+      <book navtitle="T-_Shirts">
+        <book navtitle="Shirts">
+          <page href="../contents/Men_categories/Apparel/T-_Shirts/Shirts/men_s_Shirts_Informal.htm"></page>
+        </book>
+      </book>
+    </book>
+  </book>
+  <book navtitle="RoboHelp_Features">
+    <book navtitle="New_Folder">
+      <book navtitle="folder2">
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/broken_link.htm"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/image_in_bullets.htm"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/topic_copyright.htm"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/folder2/with_masterpage_Copyright.htm"></page>
+      </book>
+      <book navtitle="word_sample">
+        <page href="../contents/RoboHelp_Features/New_Folder/word_sample/New_Topic.htm"></page>
+        <page href="../contents/RoboHelp_Features/New_Folder/word_sample/word_sample.htm"></page>
+      </book>
+      <page href="../contents/RoboHelp_Features/New_Folder/Autonumber.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/dhtml.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/DHTML_effects.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/fileds11111.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/German language.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/HTML_form_elements.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/Hyperlinks_and_popups.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/JS_elemeents.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/line_break__page_break.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/lists.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/multimedia.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/New_Topic1.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/See_also,_related_topic.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/topic_with_cbts.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/topic_with_snippet.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/Types_of_boxes.htm"></page>
+      <page href="../contents/RoboHelp_Features/New_Folder/variables_mango.htm"></page>
+    </book>
+    <page href="../contents/RoboHelp_Features/captivate.htm"></page>
+    <page href="../contents/RoboHelp_Features/Images.htm"></page>
+  </book>
+  <book navtitle="Women_Categories">
+    <book navtitle="Apparel">
+      <book navtitle="Dresses">
+        <book navtitle="Party">
+          <page href="../contents/Women_Categories/Apparel/Dresses/Party/casual_dresses.htm"></page>
+          <page href="../contents/Women_Categories/Apparel/Dresses/Party/formal_dresses.htm"></page>
+          <page href="../contents/Women_Categories/Apparel/Dresses/Party/Party_Dresses_for_Women.htm"></page>
+        </book>
+        <page href="../contents/Women_Categories/Apparel/Dresses/Women_dresses.htm"></page>
+      </book>
+      <book navtitle="Tops">
+        <book navtitle="Party">
+          <page href="../contents/Women_Categories/Apparel/Tops/Party/Formal_tops.htm"></page>
+        </book>
+      </book>
+    </book>
+    <book navtitle="Footwears">
+      <page href="../contents/Women_Categories/Footwears/Informal_footwears.htm"></page>
+    </book>
+  </book>
+  <page href="../contents/All_Categories.htm"></page>
+  <page href="../contents/General_information.htm"></page>
+  <page href="../contents/New_Topic.htm"></page>
+  <page condition="Others:informal" href="../contents/New_Topic1.htm"></page>
+  <page condition="Others:Print" href="../contents/New_Topic2.htm"></page>
+  <page href="../contents/New_Topic3_rh19masterpage.htm"></page>
+  <page href="../contents/New_Topic4_rh19.htm"></page>
+  <page href="../contents/New_Topic_Carpets,_Floor_Covering,_Draperies_-_Store_only_-_Large_Open_Area_Stores_(1000_m2_or_more)_-_Activity_531300.htm"></page>
+</map>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <variable>
+      <name>kl_k_</name>
+      <path>../variablesets/kl_k_.var</path>
+    </variable>
+    <toc>
+      <name>uy</name>
+      <path>../../toc/uy.toc</path>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <name>master project 1</name>
+      <path>../../glossary/master project 1.glo</path>
+    </glossary>
+    <brs type="array">
+      <brsitem>
+        <name>RoboHelp</name>
+        <path>../browsesequence/RoboHelp.brs</path>
+      </brsitem>
+      <brsitem>
+        <name>Women</name>
+        <path>../browsesequence/Women.brs</path>
+      </brsitem>
+    </brs>
+    <masterpage>
+      <path>../../contents/assets/masterpages/RH19_masterpage.htt</path>
+      <name>RH19_masterpage</name>
+    </masterpage>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <name>BSSCDefault</name>
+        <path>../mapfiles/BSSCDefault.ali</path>
+      </mapFilesitem>
+    </mapFiles>
+  </content>
+  <title>master project 1</title>
+  <type>webhelp</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/master project 1/WebHelp</outputPath>
+  <name>WebHelp</name>
+  <starterPage>index.htm</starterPage>
+  <defaultTopic>
+    <name>broken_link</name>
+    <path>../../contents/RoboHelp_Features/New_Folder/folder2/broken_link.htm</path>
+  </defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context type="boolean">false</context>
+    <contextLimit type="number">100</contextLimit>
+    <glossary type="boolean">true</glossary>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <filter>
+    <path>../filters/qwqeqe.filter</path>
+    <name>qwqeqe</name>
+  </filter>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <skin>
+    <name>webhelp</name>
+    <path>../skins/Azure_Bluek/webhelp.skn</path>
+  </skin>
+  <createThumbNails type="boolean">false</createThumbNails>
+</preset>

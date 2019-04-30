@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="topic-comment" content="qwewqe"/>
+  <meta name="generator" content="Adobe RoboHelp 2019"/>
+  <title>rh21091</title>
+  <link rel="stylesheet" type="text/css" href="../css/default.css"/>
+<meta name="condition-tags" content="Others:informal"/></head>
+<body>
+  <ol style="list-style: decimal;">
+    <li>Create a snippet &quot;rh 21091&quot; and add an image, <a href="../../RoboHelp_Features/captivate.htm">hyperlink</a>, <a data-rhwidget="HyperlinkPopover" href="../../All_Categories.htm">autop</a><a data-rhwidget="HyperlinkPopover" href="../../All_Categories.htm">opup</a>, apply CBTs.</li>
+    <li>Nested snippet: <span data-condition="Others:apparel">add one of the</span><span data-condition="Others:Hidden_items"> upgraded snippets </span>inside inside this snippet.</li>
+    <li>Go to &quot;topic with snippet&quot; and follow the steps mentioned.</li>
+  </ol>
+  <p><img src="../images/More_Information.png"/></p>
+  <p> </p>
+  <div data-conref="Mango brand.hts"></div>
+  <p> </p>
+  <div data-conref="New Snippet2.hts"></div>
+
+</body></html>

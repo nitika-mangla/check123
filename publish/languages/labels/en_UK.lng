@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <section name="GlossaryTab">
+    <element name="TabCaption" value="&amp;Glossarysdfs"></element>
+    <element name="TermCaption" value="&amp;Termsfsfdd"></element>
+    <element name="DefinitionCaption" value="&amp;Definition For:fsfsf"></element>
+  </section>
+  <section name="BrowseSequence">
+    <element name="PreCaption" value="Previousgfdg"></element>
+    <element name="PreTooltip" value="Previous Topicgf"></element>
+    <element name="NextTooltip" value="Next Topicg"></element>
+    <element name="BlockTooltip" value="Select Blockjhjkhjkj"></element>
+  </section>
+  <section name="Common">
+    <element name="Contents" value="Contents12234"></element>
+    <element name="Index" value="Indexqeqe"></element>
+    <element name="Search" value="Searchdfgfdgfdgdfg"></element>
+    <element name="Glossary" value="Glossary`131313"></element>
+    <element name="SyncToc" value="SyncTocfgfdgd"></element>
+    <element name="OpenLinkInNewTab" value="Open in new tabvfd"></element>
+    <element name="Seperate" value="|"></element>
+  </section>
+  <section name="ResponsiveHelp">
+    <element name="Loading" value="Loading...fd"></element>
+    <element name="Logo" value="Logoadsadadad"></element>
+    <element name="Search" value="-Search-hghg"></element>
+    <element name="HomeButton" value="Homeassaadad"></element>
+    <element name="SearchPageTitle" value="Search Resultsadadsadajkjhkj"></element>
+    <element name="PreviousLabel" value="Previousasadsaad"></element>
+    <element name="NextLabel" value="Nextadsadsadsad"></element>
+    <element name="Print" value="Printjklklk;k;kl;lk;lk;lk;lk"></element>
+    <element name="SearchTitle" value="Searchkjl"></element>
+    <element name="Copyright" value="© Copyright 2017. All rights reserved."></element>
+  </section>
+  <section name="PrintedDoc">
+    <element name="TableOfContents" value="Table of Contentsewerwr"></element>
+    <element name="TitlePage" value="Title Pagewrewrrewrw"></element>
+    <element name="ChapterFileNamePrefix" value="wrewrrw"></element>
+    <element name="GlossaryDefinitionStyleName" value="Glossary Definitionfdg"></element>
+    <element name="TocPageTitleStyleName" value="Table of Contents Page Titlegdgd"></element>
+  </section>
+  <section name="WebHelp">
+    <element name="SearchOptions" value="Search Optionserwrwrwre"></element>
+    <element name="Loading" value="Loading...wrwrwrw"></element>
+    <element name="UnknownError" value="Unknown errorwrewrwr"></element>
+    <element name="Logo" value="Logowreewrewr"></element>
+    <element name="Search" value="-Search-wrwrwrwr"></element>
+    <element name="Copyright" value="© Copyright 2017. All rights reserved."></element>
+  </section>
+</configuration>

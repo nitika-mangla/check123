@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Synonyms FormatVersion="2" FeatureVersion="2">
+  <DirectionalSynList>
+    <DirectionalSyn>
+      <From>dresses</From>
+      <To>benetton</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>caps</From>
+      <To>hats</To>
+    </DirectionalSyn>
+    <DirectionalSyn>
+      <From>robohelp</From>
+      <To>pdf</To>
+      <To>adobe</To>
+    </DirectionalSyn>
+  </DirectionalSynList>
+</Synonyms>

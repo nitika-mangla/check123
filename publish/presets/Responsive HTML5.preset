@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <variable>
+      <name>kl_k_</name>
+      <path>../variablesets/kl_k_.var</path>
+    </variable>
+    <toc>
+      <path>../../toc/uy.toc</path>
+      <name>uy</name>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <name>master project 1</name>
+      <path>../../glossary/master project 1.glo</path>
+    </glossary>
+    <brs type="array">
+      <brsitem>
+        <name>RoboHelp</name>
+        <path>../browsesequence/RoboHelp.brs</path>
+      </brsitem>
+      <brsitem>
+        <name>Women</name>
+        <path>../browsesequence/Women.brs</path>
+      </brsitem>
+    </brs>
+    <masterpage>
+      <name>RH19_masterpage</name>
+      <path>../../contents/assets/masterpages/RH19_masterpage.htt</path>
+    </masterpage>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <name>BSSCDefault</name>
+        <path>../mapfiles/BSSCDefault.ali</path>
+      </mapFilesitem>
+      <mapFilesitem>
+        <name>new_17</name>
+        <path>../mapfiles/new_17.ali</path>
+      </mapFilesitem>
+      <mapFilesitem>
+        <name>NEW_19</name>
+        <path>../mapfiles/NEW_19.ali</path>
+      </mapFilesitem>
+    </mapFiles>
+  </content>
+  <title>master project 1</title>
+  <type>html5</type>
+  <glosstermEffect type="number">1</glosstermEffect>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/master project 1/Responsive_HTML</outputPath>
+  <name>Responsive HTML5</name>
+  <starterPage>index.htm</starterPage>
+  <defaultTopic>
+    <name>broken_link</name>
+    <path>../../contents/RoboHelp_Features/New_Folder/folder2/broken_link.htm</path>
+  </defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context type="boolean">true</context>
+    <contextLimit>100</contextLimit>
+    <glossary type="boolean">true</glossary>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <filter>
+    <name>Responsive HTML5</name>
+    <path>../filters/Responsive HTML5.filter</path>
+  </filter>
+  <sitemap>
+    <use type="boolean">true</use>
+    <helpBaseURL></helpBaseURL>
+    <changeFrequency>Monthly</changeFrequency>
+  </sitemap>
+  <skin>
+    <name>html5</name>
+    <path>../skins/Azure_Blue/html5.skn</path>
+  </skin>
+  <createThumbNails type="boolean">false</createThumbNails>
+</preset>

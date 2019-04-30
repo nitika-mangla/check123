@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <variable>
+      <path>../variablesets/kl_k_.var</path>
+    </variable>
+    <toc>
+      <name>Robohelp_sanity</name>
+      <path>../../toc/Robohelp_sanity.toc</path>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <name>master project 1</name>
+      <path>../../glossary/master project 1.glo</path>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <generatetoc type="boolean">true</generatetoc>
+    <includereftopics type="boolean">false</includereftopics>
+  </content>
+  <title>master project 1</title>
+  <type>pdf</type>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/master project 1/Printed Documentation</outputPath>
+  <name>Printed Documentation</name>
+  <starterPage>master_project_1.pdf</starterPage>
+  <lowercasenames type="number">0</lowercasenames>
+  <search>
+    <context type="boolean">false</context>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+  </sitemap>
+  <pdf>
+    <margin type="array">
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+    </margin>
+    <multiheaders type="boolean">false</multiheaders>
+  </pdf>
+</preset>
