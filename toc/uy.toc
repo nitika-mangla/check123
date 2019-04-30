@@ -83,4 +83,7 @@
   <page href="../contents/New_Topic3_rh19masterpage.htm"></page>
   <page href="../contents/New_Topic4_rh19.htm"></page>
   <page href="../contents/New_Topic_Carpets,_Floor_Covering,_Draperies_-_Store_only_-_Large_Open_Area_Stores_(1000_m2_or_more)_-_Activity_531300.htm"></page>
+  <page href="../contents/assets/docs/Early Western travelers.pdf"></page>
+  <page href="../contents/assets/docs/fashion.txt"></page>
+  <page href="../contents/assets/docs/May 9 Drop Issues.xlsx"></page>
 </map>

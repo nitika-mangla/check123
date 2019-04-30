@@ -2,11 +2,12 @@
 <preset>
   <content>
     <variable>
-      <path>../variablesets/Fashioon terminology.var</path>
       <name>Fashioon terminology</name>
+      <path>../variablesets/Fashioon terminology.var</path>
     </variable>
     <conditional>
       <path>../expressions/ccvv_erfer.expn</path>
+      <name>ccvv_erfer</name>
     </conditional>
     <toc>
       <name>uy</name>
@@ -18,10 +19,13 @@
       <path>../../glossary/master project 1.glo</path>
     </glossary>
     <brs type="array"></brs>
+    <masterpage>
+      <path>../../contents/assets/masterpages/RH19_masterpage.htt</path>
+    </masterpage>
     <mapFiles type="array"></mapFiles>
     <windowsSetting>
-      <name>new</name>
-      <path>../windowssetting/new.win</path>
+      <name>NewWindow_17</name>
+      <path>../windowssetting/NewWindow_17.win</path>
     </windowsSetting>
   </content>
   <title>master project 1</title>
